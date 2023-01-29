@@ -1,6 +1,0 @@
-#print through a list
-
-list=[12,15,32,42,55,75,122,132,150,180,200]
-for k in list:
-	print(k)
-	
